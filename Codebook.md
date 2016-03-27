@@ -13,7 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ## Data Dictionary
 
 Column 1: Subject
-* ID number for person (subject) data is collected from
+* ID number for person (subject) the measurements are collected from
 
 Column 2: Activity
 * Activity labels describing the activities measured
